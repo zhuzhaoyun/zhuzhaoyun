@@ -19,6 +19,8 @@
 - GitHub: https://github.com/zhuzhaoyun
 - Email: dlutyaol@qq.com
 - 公众号: 扫码关注，获取更多 AI 工程实践干货
-![Uploading wechat.jpg…]()
+
+![wechat](https://github.com/user-attachments/assets/d11ea47d-0266-4270-bfdb-28dd16ee3963)
+
 
 
