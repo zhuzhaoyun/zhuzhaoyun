@@ -18,6 +18,7 @@
 
 - GitHub: https://github.com/zhuzhaoyun
 - Email: dlutyaol@qq.com
+- weichat: Damondut
 - 公众号: 扫码关注，获取更多 AI 工程实践干货
 
 <img src="https://github.com/user-attachments/assets/d11ea47d-0266-4270-bfdb-28dd16ee3963" width="200" alt="wechat">
